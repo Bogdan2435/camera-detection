@@ -12,7 +12,7 @@
 
 ## Tools
 
-The two models that I've used are YoloV5 and YoloV8. For the live stream i've set up a RTMP server on my laptop (tool: Local RTMP Server) and I live streamed from my GoPro.
+The two models that I've used are YoloV5 small and YoloV8 large. For the live stream i've set up a RTMP server on my laptop (tool: Local RTMP Server) and I live streamed from my GoPro.
 
 ## Demo
 

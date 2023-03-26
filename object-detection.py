@@ -4,8 +4,8 @@ import cv2
 stream = "rtmp://127.0.0.1/live/gopro9" # stream link
 cap = cv2.VideoCapture(stream) # open stream
 
-model1 = YOLO("yolov8n.pt") # load first model
-model2 = YOLO("yolov5su.pt") # load second model
+model1 = YOLO("yolov8l.pt") # load first model
+model2 = YOLO("yolov5s.pt") # load second model
 
 while True: 
     succes, img = cap.read() # read frame from stream
